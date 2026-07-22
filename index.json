@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "sources": [
+    {
+      "id": "fuuz-official",
+      "tier": "official",
+      "owner": "fuuztest-eng",
+      "repo": "fuuz-official-apps",
+      "ref": "main",
+      "catalogPath": "catalog.json"
+    },
+    {
+      "id": "partner-dunder-mifflin",
+      "tier": "partner",
+      "owner": "fuuztest-eng",
+      "repo": "partner-dunder-mifflin-apps",
+      "ref": "main",
+      "catalogPath": "catalog.json"
+    }
+  ]
+}
