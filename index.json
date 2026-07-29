@@ -15,7 +15,8 @@
       "owner": "fuuztest-eng",
       "repo": "partner-dunder-mifflin-apps",
       "ref": "main",
-      "catalogPath": "catalog.json"
+      "catalogPath": "catalog.json",
+      "private": true
     }
   ]
 }
