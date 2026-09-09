@@ -25,6 +25,14 @@
       "repo": "verbose-waffle",
       "ref": "main",
       "private": true
+    },
+    {
+      "id": "partner-big-corp",
+      "tier": "partner",
+      "owner": "fuuztest-eng",
+      "repo": "big-corp",
+      "ref": "main",
+      "private": true
     }
   ]
 }
