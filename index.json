@@ -17,6 +17,14 @@
       "ref": "main",
       "catalogPath": "catalog.json",
       "private": true
+    },
+    {
+      "id": "test-verbose-waffle",
+      "tier": "test",
+      "owner": "fuuztest-eng",
+      "repo": "verbose-waffle",
+      "ref": "main",
+      "private": true
     }
   ]
 }
